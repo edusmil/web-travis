@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\travis-test\web-travis\web-travis\bin\web-travis.dll.config
+C:\inetpub\wwwroot\travis-test\web-travis\web-travis\bin\web-travis.dll
+C:\inetpub\wwwroot\travis-test\web-travis\web-travis\bin\web-travis.pdb
+C:\inetpub\wwwroot\travis-test\web-travis\web-travis\bin\web-travis.xml
+C:\inetpub\wwwroot\travis-test\web-travis\web-travis\obj\Debug\web_travis.Resources.resources
+C:\inetpub\wwwroot\travis-test\web-travis\web-travis\obj\Debug\web-travis.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\travis-test\web-travis\web-travis\obj\Debug\web-travis.dll
+C:\inetpub\wwwroot\travis-test\web-travis\web-travis\obj\Debug\web-travis.xml
+C:\inetpub\wwwroot\travis-test\web-travis\web-travis\obj\Debug\web-travis.pdb
