@@ -1,7 +1,7 @@
 env:
   global:
-  - 'FTP_HOST=ftp.sgesistemas.com/httpdocs/webtravis/'
-  - 'FTP_USER=ftp1'
+  - 'FTP_HOST=ftp.sgesistemas.com/webtravis/'
+  - 'FTP_USER=ftpwebtravis'
   - 'FTP_PASSWORD=sge123!'  
 language: csharp
 solution: web-travis.sln
