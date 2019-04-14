@@ -1,2 +1,10 @@
+env:
+  global:
+  - 'FTP_HOST=ftp.sgesistemas.com/httpdocs/webtravis/'
+  - 'FTP_USER=ftp1'
+  - 'FTP_PASSWORD=sge123!'  
 language: csharp
 solution: web-travis.sln
+after_success:
+- echo "publicando...."
+- find . -type d \( -path "./.*" -o -path "./web-travis" \) -prune -o -name "*" -print -exec curl --ftp-create-dirs -T {} ${FTP_HOST} --user ${FTP_USER}:${FTP_PASSWORD}  \;
